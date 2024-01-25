@@ -2,3 +2,9 @@ shopping
 
 
 card
+
+
+discount
+
+
+promo
